@@ -1,0 +1,18 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Msi\licence.rtf
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Msi\wix.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Msi\wix.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\wix\obj\Debug\wix.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\wix\obj\Debug\wix.Properties.Resources.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\wix\obj\Debug\wix.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\wix\obj\Debug\wix.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\wix\obj\Debug\wix.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\wix\obj\Debug\wix.pdb
+C:\MP\MissionPlanner\Msi\licence.rtf
+C:\MP\MissionPlanner\Msi\wix.exe
+C:\MP\MissionPlanner\Msi\wix.pdb
+C:\MP\MissionPlanner\wix\obj\Debug\wix.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\wix\obj\Debug\wix.Properties.Resources.resources
+C:\MP\MissionPlanner\wix\obj\Debug\wix.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\wix\obj\Debug\wix.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\wix\obj\Debug\wix.exe
+C:\MP\MissionPlanner\wix\obj\Debug\wix.pdb

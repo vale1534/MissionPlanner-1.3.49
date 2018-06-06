@@ -1,0 +1,96 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\ChangeLog.txt
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\SikRadio.exe.config
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\SikRadio.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\de-DE\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\fr\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\it-IT\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\zh-Hans\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\zh-Hant\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\zh-TW\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\log4net.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\ZedGraph.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\ZedGraph.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\ZedGraph.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\bin\Release\log4net.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Config.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Properties.Resources.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Rssi.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Terminal.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.de-DE.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.fr.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.it-IT.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.zh-Hans.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.zh-Hant.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\MissionPlanner.Sikradio.zh-TW.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Config.zh-Hans.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Config.zh-Hant.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Config.zh-TW.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Rssi.zh-Hans.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Rssi.zh-Hant.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Rssi.zh-TW.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Terminal.zh-Hans.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Terminal.zh-Hant.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.Terminal.zh-TW.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\de-DE\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\fr\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\it-IT\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\zh-Hans\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\zh-Hant\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\zh-TW\SikRadio.resources.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\SikRadio\obj\Release\SikRadio.exe
+C:\MP\MissionPlanner\SikRadio\bin\Release\ChangeLog.txt
+C:\MP\MissionPlanner\SikRadio\bin\Release\SikRadio.exe.config
+C:\MP\MissionPlanner\SikRadio\bin\Release\SikRadio.exe
+C:\MP\MissionPlanner\SikRadio\bin\Release\de-DE\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\fr\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\it-IT\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\zh-Hans\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\zh-Hant\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\zh-TW\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\log4net.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.IO.FileSystem.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.Reflection.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.Runtime.Extensions.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\ZedGraph.dll
+C:\MP\MissionPlanner\SikRadio\bin\Release\ZedGraph.pdb
+C:\MP\MissionPlanner\SikRadio\bin\Release\ZedGraph.xml
+C:\MP\MissionPlanner\SikRadio\bin\Release\log4net.xml
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Config.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Properties.Resources.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Rssi.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Terminal.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.de-DE.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.fr.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.it-IT.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.zh-Hans.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.zh-Hant.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\MissionPlanner.Sikradio.zh-TW.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Config.zh-Hans.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Config.zh-Hant.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Config.zh-TW.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Rssi.zh-Hans.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Rssi.zh-Hant.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Rssi.zh-TW.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Terminal.zh-Hans.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Terminal.zh-Hant.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.Terminal.zh-TW.resources
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\SikRadio\obj\Release\de-DE\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\obj\Release\fr\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\obj\Release\it-IT\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\obj\Release\zh-Hans\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\obj\Release\zh-Hant\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\obj\Release\zh-TW\SikRadio.resources.dll
+C:\MP\MissionPlanner\SikRadio\obj\Release\SikRadio.exe

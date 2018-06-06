@@ -1,0 +1,18 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\bin\Debug\Updater.exe.config
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\bin\Debug\Updater.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\bin\Debug\Updater.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Updater\obj\Debug\Updater.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\Updater\obj\Debug\Updater.pdb
+C:\MP\MissionPlanner\bin\Debug\Updater.exe.config
+C:\MP\MissionPlanner\bin\Debug\Updater.exe
+C:\MP\MissionPlanner\bin\Debug\Updater.pdb
+C:\MP\MissionPlanner\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\MP\MissionPlanner\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\Updater\obj\Debug\Updater.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\Updater\obj\Debug\Updater.exe
+C:\MP\MissionPlanner\Updater\obj\Debug\Updater.pdb

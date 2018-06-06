@@ -1,0 +1,17 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\bin\Release\Arduino.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\bin\Release\Arduino.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\bin\Release\log4net.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\bin\Release\MissionPlanner.Comms.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\obj\Release\Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\obj\Release\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\obj\Release\Arduino.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Arduino\obj\Release\Arduino.pdb
+C:\MP\MissionPlanner\ExtLibs\Arduino\bin\Release\Arduino.dll
+C:\MP\MissionPlanner\ExtLibs\Arduino\bin\Release\Arduino.pdb
+C:\MP\MissionPlanner\ExtLibs\Arduino\bin\Release\log4net.dll
+C:\MP\MissionPlanner\ExtLibs\Arduino\bin\Release\MissionPlanner.Comms.dll
+C:\MP\MissionPlanner\ExtLibs\Arduino\bin\Release\log4net.xml
+C:\MP\MissionPlanner\ExtLibs\Arduino\obj\Release\Arduino.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\Arduino\obj\Release\Arduino.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\Arduino\obj\Release\Arduino.dll
+C:\MP\MissionPlanner\ExtLibs\Arduino\obj\Release\Arduino.pdb

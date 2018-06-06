@@ -1,0 +1,14 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\bin\Release\Mono.Posix.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.pdb
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.xml
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.dll
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.pdb
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\Mono.Posix.dll
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.dll
+C:\MP\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.pdb

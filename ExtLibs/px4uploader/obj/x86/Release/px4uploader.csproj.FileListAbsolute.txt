@@ -1,0 +1,18 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Release\validcertificates.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Release\px4uploader.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Release\px4uploader.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Release\DotNetZip.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Release\DotNetZip.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Release\px4uploader.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Release\px4uploader.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Release\px4uploader.pdb
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Release\validcertificates.xml
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Release\px4uploader.exe
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Release\px4uploader.pdb
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Release\BouncyCastle.Crypto.dll
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Release\DotNetZip.dll
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Release\DotNetZip.xml
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Release\px4uploader.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Release\px4uploader.exe
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Release\px4uploader.pdb

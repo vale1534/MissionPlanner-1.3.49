@@ -1,0 +1,13 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.GridUIv2.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Properties.Resources.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.GridUIv2.resources
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Properties.Resources.resources
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\bin\Release\plugins\MissionPlanner.Gridv2.dll.config
+C:\MP\MissionPlanner\bin\Release\plugins\MissionPlanner.Gridv2.dll
+C:\MP\MissionPlanner\bin\Release\plugins\MissionPlanner.Gridv2.pdb
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.dll
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.pdb

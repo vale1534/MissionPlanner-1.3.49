@@ -1,0 +1,9 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\bin\Debug\plugins\TrackerHome.dll.config
+C:\MP\MissionPlanner\bin\Debug\plugins\TrackerHome.dll
+C:\MP\MissionPlanner\bin\Debug\plugins\TrackerHome.pdb
+C:\MP\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHome.dll
+C:\MP\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHome.pdb

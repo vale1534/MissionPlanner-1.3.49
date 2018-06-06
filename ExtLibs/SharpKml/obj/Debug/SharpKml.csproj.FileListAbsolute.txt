@@ -1,0 +1,16 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\bin\Debug\SharpKml.XML
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\bin\Debug\SharpKml.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\bin\Debug\SharpKml.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\obj\Debug\SharpKml.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\obj\Debug\SharpKml.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\obj\Debug\SharpKml.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SharpKml\obj\Debug\SharpKml.pdb
+C:\MP\MissionPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.XML
+C:\MP\MissionPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.dll
+C:\MP\MissionPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.pdb
+C:\MP\MissionPlanner\ExtLibs\SharpKml\bin\Debug\Ionic.Zip.Reduced.dll
+C:\MP\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.dll
+C:\MP\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.pdb
+C:\MP\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.csprojResolveAssemblyReference.cache

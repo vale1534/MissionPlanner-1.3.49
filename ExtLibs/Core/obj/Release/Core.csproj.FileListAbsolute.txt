@@ -1,0 +1,10 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Core\bin\Release\Core.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Core\bin\Release\Core.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Core\obj\Release\Core.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Core\obj\Release\Core.pdb
+C:\MP\MissionPlanner\ExtLibs\Core\bin\Release\Core.dll
+C:\MP\MissionPlanner\ExtLibs\Core\bin\Release\Core.pdb
+C:\MP\MissionPlanner\ExtLibs\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\Core\obj\Release\Core.dll
+C:\MP\MissionPlanner\ExtLibs\Core\obj\Release\Core.pdb

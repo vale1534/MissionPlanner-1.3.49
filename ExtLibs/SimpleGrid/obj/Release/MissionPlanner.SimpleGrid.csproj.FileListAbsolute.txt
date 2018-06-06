@@ -1,0 +1,17 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.GridUI.pt.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.GridUI.resources
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.GridUI.pt.resources
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.dll.config
+C:\MP\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.dll
+C:\MP\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.pdb
+C:\MP\MissionPlanner\bin\Release\plugins\pt\MissionPlanner.SimpleGrid.resources.dll
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\pt\MissionPlanner.SimpleGrid.resources.dll
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.dll
+C:\MP\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.pdb

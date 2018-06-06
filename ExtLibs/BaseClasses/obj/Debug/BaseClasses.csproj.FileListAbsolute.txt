@@ -1,0 +1,10 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb
+C:\MP\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\MP\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\MP\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\MP\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb

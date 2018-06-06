@@ -1,0 +1,13 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Comms\bin\Debug\net462\MissionPlanner.Comms.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Comms\bin\Debug\net462\log4net.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.AssemblyInfoInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.AssemblyInfo.cs
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.dll
+C:\MP\MissionPlanner\ExtLibs\Comms\bin\Debug\net462\MissionPlanner.Comms.dll
+C:\MP\MissionPlanner\ExtLibs\Comms\bin\Debug\net462\log4net.dll
+C:\MP\MissionPlanner\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.AssemblyInfoInputs.cache
+C:\MP\MissionPlanner\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.AssemblyInfo.cs
+C:\MP\MissionPlanner\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.dll
+C:\MP\MissionPlanner\ExtLibs\Comms\obj\Debug\net462\MissionPlanner.Comms.csprojResolveAssemblyReference.cache

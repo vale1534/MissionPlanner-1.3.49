@@ -1,0 +1,9 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll.config
+C:\MP\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll
+C:\MP\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.pdb
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.dll
+C:\MP\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.pdb

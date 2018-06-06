@@ -1,0 +1,17 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\bin\Debug\ZedGraph.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\bin\Debug\ZedGraph.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphControl.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\obj\Debug\ZedGraph.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ZedGraph\obj\Debug\ZedGraph.pdb
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\bin\Debug\ZedGraph.dll
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\bin\Debug\ZedGraph.pdb
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphControl.resources
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.dll
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.pdb
+C:\MP\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csprojResolveAssemblyReference.cache

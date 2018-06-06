@@ -1,0 +1,14 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\bin\Release\net462\MAVLink.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\bin\Release\net462\log4net.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\obj\Release\net462\MAVLink.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\obj\Release\net462\MAVLink.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\obj\Release\net462\MAVLink.AssemblyInfoInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\obj\Release\net462\MAVLink.AssemblyInfo.cs
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\Mavlink\obj\Release\net462\MAVLink.dll
+C:\MP\MissionPlanner\ExtLibs\Mavlink\bin\Release\net462\MAVLink.dll
+C:\MP\MissionPlanner\ExtLibs\Mavlink\bin\Release\net462\log4net.dll
+C:\MP\MissionPlanner\ExtLibs\Mavlink\obj\Release\net462\MAVLink.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\Mavlink\obj\Release\net462\MAVLink.AssemblyInfoInputs.cache
+C:\MP\MissionPlanner\ExtLibs\Mavlink\obj\Release\net462\MAVLink.AssemblyInfo.cs
+C:\MP\MissionPlanner\ExtLibs\Mavlink\obj\Release\net462\MAVLink.dll
+C:\MP\MissionPlanner\ExtLibs\Mavlink\obj\Release\net462\MAVLink.csprojResolveAssemblyReference.cache

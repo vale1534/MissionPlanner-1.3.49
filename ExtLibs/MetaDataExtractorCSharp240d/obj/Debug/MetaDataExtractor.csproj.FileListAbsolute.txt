@@ -1,0 +1,18 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\exif.xslt
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\sampleFile.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractor.dtd
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractorNew.dtd
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.pdb
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\exif.xslt
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\sampleFile.xml
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractor.dtd
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractorNew.dtd
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.dll
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.pdb
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.dll
+C:\MP\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\obj\Debug\AviFile.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\obj\Debug\AviFile.pdb
+C:\MP\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\MP\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\MP\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\MP\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb

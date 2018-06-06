@@ -1,0 +1,15 @@
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\GDAL.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\GDAL.pdb
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\gdalconst_csharp.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\gdal_csharp.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\GMap.NET.Core.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\log4net.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\ogr_csharp.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\osr_csharp.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\System.Data.SqlServerCe.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\GMap.NET.Core.xml
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\log4net.xml
+C:\MP\MissionPlanner\ExtLibs\GDAL\bin\Release\zh-Hans\GMap.NET.Core.resources.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\obj\Release\GDAL.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\GDAL\obj\Release\GDAL.dll
+C:\MP\MissionPlanner\ExtLibs\GDAL\obj\Release\GDAL.pdb

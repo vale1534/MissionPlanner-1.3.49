@@ -1,0 +1,16 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\bin\Release\BSE.Windows.Forms.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Properties.Resources.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Panel.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanelList.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.dll
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\bin\Release\BSE.Windows.Forms.dll
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Properties.Resources.resources
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Panel.resources
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanelList.resources
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.dll

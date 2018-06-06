@@ -1,0 +1,20 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Debug\validcertificates.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Debug\px4uploader.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Debug\px4uploader.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Debug\DotNetZip.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\bin\Debug\DotNetZip.xml
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.exe
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.pdb
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Debug\validcertificates.xml
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Debug\px4uploader.exe
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Debug\px4uploader.pdb
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Debug\BouncyCastle.Crypto.dll
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Debug\DotNetZip.dll
+C:\MP\MissionPlanner\ExtLibs\px4uploader\bin\Debug\DotNetZip.xml
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.exe
+C:\MP\MissionPlanner\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.pdb

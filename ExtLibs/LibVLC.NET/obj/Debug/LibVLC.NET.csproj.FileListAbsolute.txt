@@ -1,0 +1,15 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\LibVLC.NET\bin\Debug\LibVLC.NET.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\LibVLC.NET\bin\Debug\LibVLC.NET.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\LibVLC.NET\bin\Debug\LibVLC.NET.XML
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\LibVLC.NET\obj\Debug\LibVLC.NET.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\LibVLC.NET\obj\Debug\LibVLC.NET.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\LibVLC.NET\obj\Debug\LibVLC.NET.pdb
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\bin\Debug\LibVLC.NET.dll
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\bin\Debug\LibVLC.NET.pdb
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\bin\Debug\LibVLC.NET.XML
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\bin\Debug\System.Runtime.dll
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\bin\Debug\System.Runtime.Extensions.dll
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\bin\Debug\System.Runtime.InteropServices.dll
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\obj\Debug\LibVLC.NET.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\obj\Debug\LibVLC.NET.dll
+C:\MP\MissionPlanner\ExtLibs\LibVLC.NET\obj\Debug\LibVLC.NET.pdb

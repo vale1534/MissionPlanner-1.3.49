@@ -1,0 +1,10 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.pdb
+C:\MP\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.dll
+C:\MP\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.pdb
+C:\MP\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.dll
+C:\MP\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.pdb

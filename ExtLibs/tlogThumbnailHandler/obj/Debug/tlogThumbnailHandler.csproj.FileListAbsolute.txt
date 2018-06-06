@@ -1,0 +1,10 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\tlogThumbnailHandler\bin\Debug\tlogThumbnailHandler.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\tlogThumbnailHandler\bin\Debug\tlogThumbnailHandler.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.pdb
+C:\MP\MissionPlanner\ExtLibs\tlogThumbnailHandler\bin\Debug\tlogThumbnailHandler.dll
+C:\MP\MissionPlanner\ExtLibs\tlogThumbnailHandler\bin\Debug\tlogThumbnailHandler.pdb
+C:\MP\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.dll
+C:\MP\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.pdb

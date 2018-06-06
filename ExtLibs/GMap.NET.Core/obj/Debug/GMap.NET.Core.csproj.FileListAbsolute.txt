@@ -1,0 +1,18 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Properties.Resources.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Resources.Strings.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Resources.Strings.zh-Hans.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\bin\Debug\GMap.NET.Core.dll
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\bin\Debug\GMap.NET.Core.pdb
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\bin\Debug\zh-Hans\GMap.NET.Core.resources.dll
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Properties.Resources.resources
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Resources.Strings.resources
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Resources.Strings.zh-Hans.resources
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\zh-Hans\GMap.NET.Core.resources.dll
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.dll
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.pdb
+C:\MP\MissionPlanner\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csprojResolveAssemblyReference.cache

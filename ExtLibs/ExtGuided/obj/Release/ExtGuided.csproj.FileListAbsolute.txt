@@ -1,0 +1,21 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ExtGuided\obj\Release\ExtGuided.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ExtGuided\obj\Release\ExtGuided.FilePick.resources
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ExtGuided\obj\Release\ExtGuided.csproj.GenerateResource.Cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\ExtGuided\obj\Release\ExtGuided.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\obj\Release\ExtGuided.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\obj\Release\ExtGuided.FilePick.resources
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\obj\Release\ExtGuided.csproj.GenerateResource.Cache
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\obj\Release\ExtGuided.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\ExtGuided.dll.config
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\ExtGuided.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\ExtGuided.pdb
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.IO.FileSystem.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.Reflection.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.Runtime.Extensions.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\obj\Release\ExtGuided.dll
+C:\MP\MissionPlanner\ExtLibs\ExtGuided\obj\Release\ExtGuided.pdb

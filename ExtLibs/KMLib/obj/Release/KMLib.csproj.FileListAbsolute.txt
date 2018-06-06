@@ -1,0 +1,16 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\bin\Release\KMLib.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\bin\Release\KMLib.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\bin\Release\Core.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\bin\Release\Core.pdb
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\obj\Release\KMLib.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\obj\Release\KMLib.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\obj\Release\KMLib.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\KMLib\obj\Release\KMLib.pdb
+C:\MP\MissionPlanner\ExtLibs\KMLib\bin\Release\KMLib.dll
+C:\MP\MissionPlanner\ExtLibs\KMLib\bin\Release\KMLib.pdb
+C:\MP\MissionPlanner\ExtLibs\KMLib\bin\Release\Core.dll
+C:\MP\MissionPlanner\ExtLibs\KMLib\bin\Release\Core.pdb
+C:\MP\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.dll
+C:\MP\MissionPlanner\ExtLibs\KMLib\obj\Release\KMLib.pdb

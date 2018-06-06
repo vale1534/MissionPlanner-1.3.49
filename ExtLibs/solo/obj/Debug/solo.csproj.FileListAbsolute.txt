@@ -1,0 +1,32 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\solo\obj\Debug\solo.csprojResolveAssemblyReference.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\solo\obj\Debug\solo.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\solo.exe.config
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\solo.exe
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\solo.pdb
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Flurl.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Flurl.Http.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Newtonsoft.Json.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Renci.SshNet.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.IO.FileSystem.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Net.Http.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Reflection.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Flurl.pdb
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Flurl.xml
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Flurl.Http.pdb
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Flurl.Http.xml
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Newtonsoft.Json.xml
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\Renci.SshNet.xml
+C:\MP\MissionPlanner\ExtLibs\solo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\MP\MissionPlanner\ExtLibs\solo\obj\Debug\solo.csprojResolveAssemblyReference.cache
+C:\MP\MissionPlanner\ExtLibs\solo\obj\Debug\solo.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\solo\obj\Debug\solo.exe
+C:\MP\MissionPlanner\ExtLibs\solo\obj\Debug\solo.pdb

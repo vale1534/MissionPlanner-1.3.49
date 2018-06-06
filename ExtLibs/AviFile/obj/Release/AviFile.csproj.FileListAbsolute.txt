@@ -1,0 +1,6 @@
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\bin\Release\AviFile.dll
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\obj\Release\AviFile.csproj.CoreCompileInputs.cache
+C:\Users\Victor Luiz Ferreira\Downloads\MissionPlanner-MissionPlanner1.3.49\ExtLibs\AviFile\obj\Release\AviFile.dll
+C:\MP\MissionPlanner\ExtLibs\AviFile\bin\Release\AviFile.dll
+C:\MP\MissionPlanner\ExtLibs\AviFile\obj\Release\AviFile.csproj.CoreCompileInputs.cache
+C:\MP\MissionPlanner\ExtLibs\AviFile\obj\Release\AviFile.dll
